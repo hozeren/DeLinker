@@ -87,4 +87,4 @@ dependencies:
   - rdkit=2018.09.1.0=py36h71b666b_1
   - pip:
     - planarity==0.4.1
-    - tensorflow
+    - tensorflow #to fix GPU error
