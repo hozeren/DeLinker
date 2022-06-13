@@ -65,10 +65,6 @@ dependencies:
   - scipy=1.1.0=py36hfa4b5c9_1
   - sip=4.19.13=py36he6710b0_0
   - sqlite=3.25.3=h7b6447c_0
-  - tensorboard=1.10.0=py36hf484d3e_0
-  - tensorflow=1.10.0=gpu_py36hcebf108_0
-  - tensorflow-base=1.10.0=gpu_py36had579c0_0
-  - tensorflow-gpu=1.10.0=hf154084_0
   - tk=8.6.8=hbc83047_0
   - tornado=6.0.3=py36h7b6447c_0
   - werkzeug=0.14.1=py36_0
@@ -91,3 +87,4 @@ dependencies:
   - rdkit=2018.09.1.0=py36h71b666b_1
   - pip:
     - planarity==0.4.1
+    - tensorflow
