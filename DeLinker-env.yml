@@ -88,3 +88,4 @@ dependencies:
   - pip:
     - planarity==0.4.1
     - tensorflow #to fix GPU error
+    - ipython
